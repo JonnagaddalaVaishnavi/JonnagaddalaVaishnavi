@@ -33,4 +33,4 @@ Frameworks : Hibernate , Spring Core, Spring ORM
    -> Implemented JavaScript logic for dynamic background color updates and hexadecimal color display.                                                                     
 
 🚀 Let's Connect! I’m always open to collaborating on exciting projects, learning new technologies, and connecting with like-minded individuals. 
-   Feel free to drop me a message!
+       Feel free to drop me a message!
