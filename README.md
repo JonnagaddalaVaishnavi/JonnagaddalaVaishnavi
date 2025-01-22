@@ -18,6 +18,8 @@ Databases: MySQL, Oracle
 
 Tools: Git, GitHub, VS Code
 
+Frameworks : Hibernate , Spring Core, Spring ORM
+
 🌟 Projects 
 - Classic Tic Tac Toe - Java Edition:
    -> A classic Tic Tac Toe game implemented in Java, featuring simple console-based gameplay.
