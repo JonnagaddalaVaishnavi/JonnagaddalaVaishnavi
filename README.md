@@ -28,7 +28,7 @@ Frameworks : Hibernate , Spring Core, Spring ORM
    -> Created a simple and visually appealing website to showcase and store recipes.
    -> Designed a responsive user interface for easy navigation and recipe categorization.
   
-Random Color Generator - Technologies Used: HTML, CSS, JavaScript
+-Random Color Generator - Technologies Used: HTML, CSS, JavaScript
   -> Developed an interactive mini project that generates random colors on user interaction.
   -> Implemented JavaScript logic for dynamic background color updates and hexadecimal color display.
 
