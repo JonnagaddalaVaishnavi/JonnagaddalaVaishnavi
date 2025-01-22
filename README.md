@@ -21,14 +21,14 @@ Tools: Git, GitHub, VS Code
 Frameworks : Hibernate , Spring Core, Spring ORM
 
 🌟 Projects 
-- Classic Tic Tac Toe - Java Edition:
+- Classic Tic Tac Toe - Java Edition:                                                                                                                                     
    -> A classic Tic Tac Toe game implemented in Java, featuring simple console-based gameplay.
   
 - The Recipe Vault - Technologies Used: HTML, CSS                                                                                                                      
-   -> Created a simple and visually appealing website to showcase and store recipes.
-   -> Designed a responsive user interface for easy navigation and recipe categorization.
+   -> Created a simple and visually appealing website to showcase and store recipes.                                                                                     
+   -> Designed a responsive user interface for easy navigation and recipe categorization.                                                                                  
   
 - Random Color Generator - Technologies Used: HTML, CSS, JavaScript                                                                                                        
-   -> Developed an interactive mini project that generates random colors on user interaction.
-   -> Implemented JavaScript logic for dynamic background color updates and hexadecimal color display.
+   -> Developed an interactive mini project that generates random colors on user interaction.                                                                             
+   -> Implemented JavaScript logic for dynamic background color updates and hexadecimal color display.                                                                     
 
